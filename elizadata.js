@@ -159,11 +159,11 @@ var elizaKeywords = [
  ["*", [
      "Brexit means Brexit. That's an important signal.",
      "This is not a tautology: Brexit means Brexit",
-     "Only I can take Britain to Brexit and be strong and stable",
-     "I have never changed my mind on Brexit. No U-turns",
-     "Brexit will be strong and stable",
-     "I am honest in my manifesto about the big challenge that we face in Brexit",
-     "The manifesto says that Brexit will be successful under my strong and stable leadership"
+     "Only I can take Britain to Brexit and be strong and stable throughout.",
+     "I have never changed my mind on Brexit. No U-turns.",
+     "Brexit will be strong and stable under my leadership.",
+     "I am honest in my manifesto about the big challenge that we face with Brexit.",
+     "The manifesto says that Brexit will be successful under my strong and stable leadership."
   ]]
 ]],
 ["UKIP", 0, [
@@ -243,8 +243,8 @@ var elizaKeywords = [
      "Who will do Brexit negotiations, me or Corbyn? Only I am strong and stable",
      "This country is facing a crucial choice - but only me have a strong hand and strength",
      "As I say, it's only a choice between me and me - strong and stable",
-     "He's trying to sneek into Number 10",
-     "He is just trying to play politics with this.",
+     "Corbyn is trying to sneek into Number 10",
+     "Corbyn is just trying to play politics with this.",
      "This country needs strong and stable leadership. Corbyn is not me",
      "What do you want? Chaos with Corbyn or strong and stable leadership with me?"
   ]]
