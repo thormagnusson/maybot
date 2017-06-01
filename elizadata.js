@@ -640,7 +640,7 @@ var elizaKeywords = [
 ["what", 0, [
  ["*", [
      "Why do you ask ? Do you want Corbyn or me",
-     "Does that question interest you ? Let's talk Brexit, NSH or leadership",
+     "Does that question interest you ? Let's talk Brexit, NHS or leadership",
      "What is it you really want to know ? I am very clear that this is a crucial election for this country.",
      "Are such questions much on your mind ? I have told you that I am strong and stable",
      "I am very clear that I have a proud record of connection with the armed forces",
