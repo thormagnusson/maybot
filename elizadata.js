@@ -110,6 +110,17 @@ var elizaKeywords = [
      "The manifesto says that nobody needs to worry under my strong and stable leadership"
   ]]
 ]],
+["covfefe", 0, [
+ ["*", [
+     "My policy on covfefe in the manifesto is very strong ",
+     "I have always said that we need a strong covfefe in this country",
+     "Without a strong leadership, under my rule, there will be bad covfefe in Britain",
+     "Jeremy Corbyn does not have the strong covfefes to take this country forward",
+     "In our manifesto we have described our strong and stable leadership on covfefe",
+     "Did you say covfefe?",
+     "The Conservative manifesto explains our policy on covfefe very well, thank you."
+  ]]
+]],
 ["NHS", 0, [
  ["*", [
      "Only the Conservatives can save the NHS. Don't ignore it. We can fix it. ",
