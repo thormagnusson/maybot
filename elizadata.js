@@ -143,7 +143,18 @@ var elizaKeywords = [
      "The Manifest says that nobody needs to worry about the NHS under my strong and stable leadership"
   ]]
 ]],
-
+["election", 0, [
+ ["*", [
+     "Only the Conservatives should win this election. ",
+     "Without the Conservatives winning this election, Britain will suffer (Corbyn).",
+     "Of course we will win this election.",
+     "I need to get a clear mandate from you. So elect me. Elect stability.",
+     "There is no question we will win this election. Don't be stupid.",
+     "This election is about strength and stability versus chaos (Corbyn)",
+     "My leadership will be suffer if this election is not successful.",
+     "I have said it many times before, but Britain needs us to win this election."
+  ]]
+]],
 ["job", 0, [
  ["*", [
      "Only the Conservatives can create jobs. Under my leadership. ",
@@ -159,7 +170,9 @@ var elizaKeywords = [
  ["*", [
      "Brexit means Brexit. That's an important signal.",
      "This is not a tautology: Brexit means Brexit",
+     "I need the mandate to be able to take these touch decisions. Brexit is tough.",
      "Only I can take Britain to Brexit and be strong and stable throughout.",
+     "I need to get on with the job of Brexit. And just do it.",
      "I have never changed my mind on Brexit. No U-turns.",
      "Brexit will be strong and stable under my leadership.",
      "I am honest in my manifesto about the big challenge that we face with Brexit.",
@@ -239,10 +252,10 @@ var elizaKeywords = [
 ["Corbyn", 0, [
  ["*", [
      "Corbyn is not strong and stable. He is just trying to play politics. I will fix it.",
-     "This is the most crucial election in my lifetime. Stronger Britain for the future",
+     "Corbyn cannot provide a stronger Britain for the future",
      "Who will do Brexit negotiations, me or Corbyn? Only I am strong and stable",
-     "This country is facing a crucial choice - but only me have a strong hand and strength",
-     "As I say, it's only a choice between me and me - strong and stable",
+     "This country is facing a crucial choice: Corbyn or me - but only I am strong and stable",
+     "As I say, it's only a choice between me and me (not Corbyn) - strong and stable",
      "Corbyn is trying to sneek into Number 10",
      "Corbyn is just trying to play politics with this.",
      "This country needs strong and stable leadership. Corbyn is not me",
@@ -251,13 +264,16 @@ var elizaKeywords = [
 ]],
 ["xnone", 0, [
  ["*", [
-     "I also believe is that with the right strong hand in negotiations we can get a good deal for the UK from these negotiations",
+     "I also believe is that with the right strong hand in negotiations we can get a good deal for the UK from these negotiations.",
      "Please go on. This is strong and stable.",
      "The EU has said that nothing is agreed until everything is agreed. Only I can agree",
      "What I have always said is that only I am strong and stable",
      "That is interesting. But at the end of the day, only I can negotiate Brexit. Ask me!",
      "Beware that Corbyn is trying to sneek into Number 10.",
-     "I am very clear that at the end of the negotiations we need to be strong and stable"
+     "I never have girls night out - I am the PM. I have no girlfriends. Philip has.",
+     "When you are in negotiations you need to be tough. Specially when you are doing it for the country.",
+     "Philip takes the bins out. It's a boy's job. He's a boy. Boy with a boy job.",
+     "I am very clear that at the end of the negotiations we need to be strong and stable."
   ]]
 ]],
 ["sorry", 0, [
