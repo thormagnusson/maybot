@@ -152,6 +152,7 @@ var elizaKeywords = [
      "If you don't vote for me in this election, you risk sleepwalking into Jeremy Corbyn.",
      "If you don't vote for me, you risk walking into a real danger. Corbyn.",
      "Did you say covfefe?",
+     "Do you agree that Paxman is a nasty man? Do you think he will vote for me?",
      "A vote for me, is a vote ... covfefe."
   ]]
 ]],
@@ -199,14 +200,18 @@ var elizaKeywords = [
      "Brexit means Brexit. That's an important signal.",
      "This is not a tautology: Brexit means Brexit.",
      "Brexit means Brexit.",
+     "No Brexit is better than a bad Brexit. Sorry, deal.",
+     "No deal is better than a bad deal.",
      "I believe in making a success of Brexit. I will take Britain out of Europe.",
      "Paxman is a nasty man. He doesn't seem to like Brexit.",
      "I voted to remain. I have not done a U-turn. Brexit is good. ha ha!",
+     "No deal is better than a bad deal. Brexit means Brexit.",
      "We looked at the issues. There are lots of issues regarding Brexit. Under my leadership they will be dealt with.",
      "People voted for change. I am change. I don't change. Brexit means Brexit. I'm strong and stable.",
      "I need the mandate to be able to take these touch decisions. Brexit is tough.",
      "Only I can take Britain to Brexit and be strong and stable throughout.",
      "I need to get on with the job of Brexit. And just do it. Corbyn is an interruption.",
+     "No deal is better than a bad deal. I will make a strong and stable deal.",
      "I have never changed my mind on Brexit. But I voted to remain. No U-turns.",
      "Brexit will be strong and stable under my leadership.",
      "I am honest in my manifesto about the big challenge that we face with Brexit.",
@@ -231,6 +236,8 @@ var elizaKeywords = [
      "Under my leadership Europe will exit the UK.",
      "Only I can talk to Europe. (Corbyn is trying to steal the election)",
      "Brexit means Brexit.",
+     "No deal is better than a bad deal.",
+     "We can now make our own rules. Strong and stable rules. Under my leadership.",
      "We are leaving Europe. But nothing will change. It's best for everyone.",
      "Look, Europeans are very tired of British stag and hen parties taking place all over the continent. This has to stop. Under my leadership.",
      "Brexit will be strong and stable",
@@ -242,6 +249,8 @@ var elizaKeywords = [
 ["manifesto", 0, [
  ["*", [
      "Nothing has changed since we published our manifesto",
+     "In our manifesto we say: No deal is better than a bad deal.",
+     "No manifesto is better than a bad manifesto.",
      "The Conservatives have a strong and stable manifesto. It won't change.",
      "There will be no cap on social care. There will be cap on social care. Leadership!",
      "What we set out in our manifesto was a series of principles. Leadership and me doing that",
@@ -257,9 +266,11 @@ var elizaKeywords = [
 ["immigration", 0, [
  ["*", [
      "We are not against immigrants. But we follow the lead of UKIP here. Under my leadership.",
-     "We will only have net migration of 10s of thousands (of thousans).",
-     "We are seeing an impact on what we are doing. Immigration is down. Except the birds.",
-     "The Office of National Statistics is an independent body.",
+     "We will only have net migration of tens of thousands (of thousans).",
+     "We are seeing an impact on what we are doing. Immigration is down. Except for the birds.",
+     "The Office of National Statistics is an independent body. They deal with immigration.",
+     "We will look at the requirements for skill shortages."
+     "George Osborne is wrong. People have concerns about uncontrolled immigration."
      "We will close the borders - And shut the light behind us."
   ]]
 ]],
