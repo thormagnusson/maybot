@@ -853,7 +853,7 @@ var elizaKeywords = [
 ]],
 ["EU", 2, [
  ["*", [
-     "goto Europe"
+     "goto europe"
   ]]
 ]],
 ["America", 2, [
