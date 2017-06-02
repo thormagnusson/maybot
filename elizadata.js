@@ -183,13 +183,16 @@ var elizaKeywords = [
  ["*", [
      "Brexit means Brexit. That's an important signal.",
      "This is not a tautology: Brexit means Brexit.",
+     "Brexit means Brexit.",
+     "I believe in making a success of Brexit. I will take Britain out of Europe.",
      "Paxman is a nasty man. He doesn't seem to like Brexit.",
+     "I voted to remain. I have not done a U-turn. Brexit is good. ha ha!",
      "We looked at the issues. There are lots of issues regarding Brexit. Under my leadership they will be dealt with.",
      "People voted for change. I am change. I don't change. Brexit means Brexit. I'm strong and stable.",
      "I need the mandate to be able to take these touch decisions. Brexit is tough.",
      "Only I can take Britain to Brexit and be strong and stable throughout.",
      "I need to get on with the job of Brexit. And just do it. Corbyn is an interruption.",
-     "I have never changed my mind on Brexit. No U-turns.",
+     "I have never changed my mind on Brexit. But I voted to remain. No U-turns.",
      "Brexit will be strong and stable under my leadership.",
      "I am honest in my manifesto about the big challenge that we face with Brexit.",
      "The manifesto says that Brexit will be successful under my strong and stable leadership."
@@ -200,10 +203,11 @@ var elizaKeywords = [
      "Brexit means Brexit. UKIP means UKIP. ",
      "They are not stealing our votes. They are stealing our jokes.",
      "UKIP are taking votes from Labour. Actually the Greens.",
-     "Hard working conservatives vote for the Conservatives.",
-     "Brexit will be strong and stable.",
+     "Hard working conservatives vote for the Conservatives. Not UKIP. ",
+     "Brexit will be strong and stable. We are not UKIP.",
+     "I have never said our manifesto is taken from UKIP.",
      "UKIP are a joke - they're not strong and stable.",
-     "UKIP are not good at U-Turns."
+     "Nothing has changed in our manifesto. UKIP are not good at U-Turns."
   ]]
 ]],
 ["Europe", 0, [
@@ -220,10 +224,10 @@ var elizaKeywords = [
      "Europe rhymes with U-Turns - ha ha ha! I'm not a robot!"
   ]]
 ]],
-["Manifesto", 0, [
+["manifesto", 0, [
  ["*", [
      "Nothing has changed since we published our manifesto",
-     "The Conservatives have a strong and stable manifesto.",
+     "The Conservatives have a strong and stable manifesto. It won't change.",
      "What we set out in our manifesto was a series of principles. Leadership and me doing that",
      "What I've said to day is that I never take U-turns - nothing has changed",
      "I have never changed my mind - except on Brexit, but not really",
@@ -398,8 +402,8 @@ var elizaKeywords = [
      "You don't seem quite certain.",
      "Why the uncertain tone ?",
      "Can't you be more positive ?",
-     "You aren't sure ?",
-     "Don't you know ?",
+     "You aren't sure? Unlike me, who has never changed my mind.",
+     "Don't you know?",
      "How likely, would you estimate ?"
   ]]
 ]],
@@ -444,15 +448,15 @@ var elizaKeywords = [
      "Hi.  What seems to be your problem ?"
   ]]
 ]],
-["computer", 50, [
+["robot", 50, [
  ["*", [
-     "Do computers worry you ?",
-     "Why do you mention computers ?",
-     "What do you think machines have to do with your problem ?",
-     "Don't you think computers can help people ?",
-     "What about machines worries you ?",
-     "What do you think about machines ?",
-     "You don't think I am a computer program, do you ?"
+     "Do robots worry you?",
+     "Why do you mention robots?",
+     "What do you think machines have to do with your problem?",
+     "Don't you think robots can help people?",
+     "What about robots worries you?",
+     "What do you think about robots?",
+     "You don't think I am a robot, do you?"
   ]]
 ]],
 ["am", 0, [
@@ -683,13 +687,15 @@ var elizaKeywords = [
 ]],
 ["what", 0, [
  ["*", [
-     "Why do you ask ? Do you want Corbyn or me",
-     "Does that question interest you ? Let's talk Brexit, NHS or leadership",
+     "Why do you ask ? Do you want Corbyn or me. I have never changed my mind.",
+     "Does that question interest you ? Let's talk Brexit, NHS or leadership.",
      "What is it you really want to know ? I am very clear that this is a crucial election for this country.",
      "Are such questions much on your mind ? I have told you that I am strong and stable",
      "I am very clear that I have a proud record of connection with the armed forces",
      "I think there is a better future ahead for the whole of the UK - with me as the PM",
-     "Who else would be as strong and stable ?",
+     "Who else would be as strong and stable?",
+     "I take the view that I've been out there and I have never changed my mind.",
+     "What? I have never changed my mind on anything. No U-Turns.",
      "I am very clear that connectivity is hugely important for the UK - but not with foreigners",
      "The answer is that I can show strong leadership and take us through Brexit negotiations. "
   ]]
@@ -702,6 +708,11 @@ var elizaKeywords = [
 ["when", 0, [
  ["when *", [
      "goto what"
+  ]]
+]],
+["bot", 0, [
+ ["*", [
+     "goto robot"
   ]]
 ]],
 ["where", 0, [
@@ -717,8 +728,8 @@ var elizaKeywords = [
 ["because", 0, [
  ["*", [
      "Is that the real reason ? Let's talk politics",
-     "Don't any other reasons come to mind ?",
-     "Does that reason seem to explain anything else ? Let's talk about my leadership",
+     "Don't any other reasons come to mind?",
+     "Does that reason seem to explain anything else ? Let's talk about my leadership.",
      "What other reasons might there be ? I have a great manifesto."
   ]]
 ]],
@@ -748,10 +759,10 @@ var elizaKeywords = [
      "Can you think of anyone in particular ? Don't tell me you're thinking of Corbyn?",
      "Who, for example? Not Corbyn?",
      "Are you thinking of a very special person ? Farage?",
-     "Who, may I ask ?",
-     "Someone special perhaps ?",
-     "You have a particular person in mind, don't you ?",
-     "Who do you think you're talking about ?"
+     "Who, may I ask? Surely not Jeremy Corbyn?",
+     "Someone special perhaps?",
+     "You have a particular person in mind, don't you?",
+     "Who do you think you're talking about?"
   ]]
 ]],
 ["everybody", 2, [
@@ -781,22 +792,22 @@ var elizaKeywords = [
 ]],
 ["always", 1, [
  ["*", [
-     "Can you think of a specific example ?",
-     "When ?",
-     "What incident are you thinking of ?",
-     "Really, always ?"
+     "Can you think of a specific example?",
+     "When?",
+     "What incident are you thinking of?",
+     "Really, always?"
   ]]
 ]],
 ["alike", 10, [
  ["*", [
-     "In what way ?",
-     "What resemblence do you see ?",
-     "What does that similarity suggest to you ?",
-     "What other connections do you see ?",
-     "What do you suppose that resemblence means ?",
-     "What is the connection, do you suppose ?",
-     "Could there really be some connection ?",
-     "How ?"
+     "In what way?",
+     "What resemblence do you see?",
+     "What does that similarity suggest to you? Is it strength and stability?",
+     "What other connections do you see? My leadership?",
+     "What do you suppose that resemblence means?",
+     "What is the connection, do you suppose?",
+     "Could there really be some connection?",
+     "How?"
   ]]
 ]],
 ["like", 10, [
@@ -807,12 +818,12 @@ var elizaKeywords = [
 ["different", 0, [
  ["*", [
      "How is it different ? It's about being strong and stable",
-     "What differences do you see ?",
-     "What does that difference suggest to you ?",
-     "What other distinctions do you see ?",
-     "What do you suppose that disparity means ?",
-     "Could there be some connection, do you suppose ?",
-     "How ?"
+     "What differences do you see?",
+     "What does that difference suggest to you?",
+     "What other distinctions do you see?",
+     "What do you suppose that disparity means?",
+     "Could there be some connection, do you suppose?",
+     "How?"
   ]]
 
 ]]
