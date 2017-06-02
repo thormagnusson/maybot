@@ -269,8 +269,8 @@ var elizaKeywords = [
      "We will only have net migration of tens of thousands (of thousans).",
      "We are seeing an impact on what we are doing. Immigration is down. Except for the birds.",
      "The Office of National Statistics is an independent body. They deal with immigration.",
-     "We will look at the requirements for skill shortages."
-     "George Osborne is wrong. People have concerns about uncontrolled immigration."
+     "We will look at the requirements for skill shortages.",
+     "George Osborne is wrong. People have concerns about uncontrolled immigration.",
      "We will close the borders - And shut the light behind us."
   ]]
 ]],
@@ -882,13 +882,13 @@ var elizaKeywords = [
 // regexp/replacement pairs to be performed as final cleanings
 // here: cleanings for multiple bots talking to each other
 var elizaPostTransforms = [
-	/ old old/g, " old",
-	/\bthey were( not)? me\b/g, "it was$1 me",
-	/\bthey are( not)? me\b/g, "it is$1 me",
-	/Are they( always)? me\b/, "it is$1 me",
-	/\bthat your( own)? (\w+)( now)? \?/, "that you have your$1 $2 ?",
-	/\bI to have (\w+)/, "I have $1",
-	/Earlier you said your( own)? (\w+)( now)?\./, "Earlier you talked about your $2."
+    / old old/g, " old",
+    /\bthey were( not)? me\b/g, "it was$1 me",
+    /\bthey are( not)? me\b/g, "it is$1 me",
+    /Are they( always)? me\b/, "it is$1 me",
+    /\bthat your( own)? (\w+)( now)? \?/, "that you have your$1 $2 ?",
+    /\bI to have (\w+)/, "I have $1",
+    /Earlier you said your( own)? (\w+)( now)?\./, "Earlier you talked about your $2."
 ];
 
 // eof
