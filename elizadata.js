@@ -122,6 +122,19 @@ var elizaKeywords = [
      "The manifesto says that nobody needs to worry under my strong and stable leadership."
   ]]
 ]],
+["environment", 0, [
+ ["*", [
+     "Well, Trump is our special friend. We have a very special relationship.",
+     "Under my leadership climate change will be strong and stable.",
+     "Hard working families up and down the country are not concerned with the environment.",
+     "Give me a break! Climate change is leftie politics.",
+     "What we have done is to set out policies to change climate change. I never change.",
+     "I am honest in my manifesto about the big challenge we face regarding climate change.",
+     "I told Trump that we like the environment. He knows that.",
+     "I said to Trump that Paris is a nice city. He didn't get a cake there. Didn't like the environment.",
+     "I have always said that, frankly, the environment is overrated."
+  ]]
+]],
 ["philip", 0, [
  ["*", [
      "Our relationship is romantic. Philip takes the rubbish out.",
@@ -859,6 +872,16 @@ var elizaKeywords = [
 ["America", 2, [
  ["*", [
      "goto trump"
+  ]]
+]],
+["Paris", 2, [
+ ["*", [
+     "goto environment"
+  ]]
+]],
+["paris", 2, [
+ ["*", [
+     "goto environment"
   ]]
 ]],
 ["conservative", 2, [
