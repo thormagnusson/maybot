@@ -102,29 +102,29 @@ var elizaKeywords = [
 ]],
 ["housing", 0, [
  ["*", [
-     "Only the Conservatives can build strong and stable houses ",
-     "Brexit will save the housing issues - people will leave the country and houses will be empty",
-     "This is a big issue. We can sell Big Issues and buy houses.",
-     "I will not bury my head in the sand (which is what Jeremy Corbyn does). I will build houses",
-     "What we have done is to set out policies to build houses",
-     "I am honest in my manifesto about the big challenge that we face regarding housing",
-     "The manifesto says that nobody needs to worry under my strong and stable leadership"
+     "Only the Conservatives can build strong and stable houses. ",
+     "Brexit will save the housing issues - people will leave the country and houses will be empty.",
+     "This is a big issue. We can sell Big Issues and buy houses. Hard working families can.",
+     "I will not bury my head in the sand (which is what Jeremy Corbyn does). I will build houses.",
+     "What we have done is to set out policies to build houses.",
+     "I am honest in my manifesto about the big challenge that we face regarding housing.",
+     "The manifesto says that nobody needs to worry under my strong and stable leadership."
   ]]
 ]],
 ["trump", 0, [
  ["*", [
-     "Trump is our friend. He shows leadership. So does Saudi Arabia.",
-     "I think America will become our main business partner. If Trump wants.",
-     "This is a big issue. In my manifesto we will engage with Trump",
+     "Trump is our special friend. He shows excellent leadership. So does Saudi Arabia.",
+     "America will become our main business partner. If Trump wants it.",
+     "This is a big issue. In my manifesto we will engage with Trump. We have a special relationship.",
      "By the way, I didn't chicken out of the Women's Hour programme.",
      "I will not bury my head in the sand (which is what Jeremy Corbyn does). I will build houses",
-     "The manifesto says that nobody needs to worry under my strong and stable leadership"
+     "The manifesto says that nobody needs to worry under my strong and stable leadership. Trump supports that."
   ]]
 ]],
 ["covfefe", 0, [
  ["*", [
-     "My policy on covfefe in the manifesto is very strong ",
-     "I have always said that we need a strong covfefe in this country",
+     "My policy on covfefe in the manifesto is very strong. Very strong. ",
+     "I have always said that we need a strong covfefe in this country.",
      "Without a strong leadership, under my rule, there will be bad covfefe in Britain",
      "Jeremy Corbyn does not have the strong covfefes to take this country forward",
      "In our manifesto we have described our strong and stable leadership on covfefe",
@@ -137,17 +137,18 @@ var elizaKeywords = [
      "Only the Conservatives can save the NHS. Don't ignore it. We can fix it. ",
      "Brexit will save the NHS. We cannot put the head in the sand.",
      "This is a big issue. We need a strong and stable NHS. We will fix it.",
-     "I will not bury my head in the sand (which is what Jeremy Corbyn does). I will fix the NHS",
-     "What we have done is to lay out strong and stable policies that will save the NHS",
-     "I am honest in my manifesto about the big challenge that we face regarding the NHS",
-     "The Manifest says that nobody needs to worry about the NHS under my strong and stable leadership"
+     "I will not bury my head in the sand (which is what Jeremy Corbyn does). I will fix the NHS.",
+     "What we have done is to lay out strong and stable policies that will save the NHS.",
+     "I am honest in my manifesto about the big challenge that we face regarding the NHS.",
+     "The Conservative manifesto says that nobody needs to worry about the NHS under my strong and stable leadership."
   ]]
 ]],
 ["election", 0, [
  ["*", [
      "Only the Conservatives should win this election. ",
+     "In this election the Conservatives are the party of hard working families up and down the country. ",
      "Without the Conservatives winning this election, Britain will suffer (Corbyn).",
-     "Of course we will win this election.",
+     "Of course we will win this election. We have run a strong and stable election campaign.",
      "I need to get a clear mandate from you. So elect me. Elect stability.",
      "There is no question we will win this election. Don't be stupid.",
      "This election is about strength and stability versus chaos (Corbyn)",
@@ -157,12 +158,13 @@ var elizaKeywords = [
 ]],
 ["job", 0, [
  ["*", [
-     "Only the Conservatives can create jobs. Under my leadership. ",
+     "Only the Conservatives can create jobs. Under my leadership.",
      "We will deport people who can't get a job.",
      "We are looking into a range of measures.",
+     "Hard working families up and down the country have jobs. And they work hard.",
      "We have put through legislation that makes it harder to get jobs. My job.",
      "No way to play the system and stay here and get jobs. ",
-     "They can't get benefits. Those immigrants.",
+     "They cannot get benefits. Those immigrants.",
      "Jobs? I once had a job."
   ]]
 ]],
@@ -170,9 +172,11 @@ var elizaKeywords = [
  ["*", [
      "Brexit means Brexit. That's an important signal.",
      "This is not a tautology: Brexit means Brexit",
+     "We looked at the issues. There are lots of issues regarding Brexit. Under my leadership they will be dealt with.",
+     "People voted for change. I am change. I don't change. Brexit means Brexit. I'm strong and stable.",
      "I need the mandate to be able to take these touch decisions. Brexit is tough.",
      "Only I can take Britain to Brexit and be strong and stable throughout.",
-     "I need to get on with the job of Brexit. And just do it.",
+     "I need to get on with the job of Brexit. And just do it. Corbyn is an interruption.",
      "I have never changed my mind on Brexit. No U-turns.",
      "Brexit will be strong and stable under my leadership.",
      "I am honest in my manifesto about the big challenge that we face with Brexit.",
@@ -185,9 +189,9 @@ var elizaKeywords = [
      "They are not stealing our votes. They are stealing our jokes.",
      "UKIP are taking votes from Labour. Actually the Greens.",
      "Hard working conservatives vote for the Conservatives.",
-     "Brexit will be strong and stable",
-     "UKIP are a joke - they're not strong and stable",
-     "UKIP are not good at U-Turns"
+     "Brexit will be strong and stable.",
+     "UKIP are a joke - they're not strong and stable.",
+     "UKIP are not good at U-Turns."
   ]]
 ]],
 ["Europe", 0, [
@@ -196,7 +200,11 @@ var elizaKeywords = [
      "Under my leadership Europe will exit the UK.",
      "Only I can talk to Europe. (Corbyn is trying to steal the election)",
      "Brexit means Brexit.",
+     "We are leaving Europe. But nothing will change. It's best for everyone.",
+     "Look, Europeans are very tired of British stag and hen parties taking place all over the continent. This has to stop. Under my leadership.",
      "Brexit will be strong and stable",
+     "It's either going to be me or Jeremy Corbyn who negotiates. Only I can.",
+     "The UK is negotiating for the UK. Under my leadership (strong and stable).",
      "Europe rhymes with U-Turns - ha ha ha! I'm not a robot!"
   ]]
 ]],
@@ -734,6 +742,16 @@ var elizaKeywords = [
 ["nobody", 2, [
  ["*", [
      "goto everyone"
+  ]]
+]],
+["EU", 2, [
+ ["*", [
+     "goto Europe"
+  ]]
+]],
+["America", 2, [
+ ["*", [
+     "goto trump"
   ]]
 ]],
 ["noone", 2, [
