@@ -122,6 +122,18 @@ var elizaKeywords = [
      "The manifesto says that nobody needs to worry under my strong and stable leadership."
   ]]
 ]],
+["philip", 0, [
+ ["*", [
+     "Our relationship is romantic. Philip takes the rubbish out.",
+     "Philip and I are in a strong and stable relationship. Under my leadership.",
+     "Philip and I live together. That's how we live.",
+     "Like Britain and Europe. Philip and I have a very special relationship.",
+     "Like Britain and America. Philip and I have a strong relationship.",
+     "Philip is not fake news. ",
+     "There are girl jobs and boy jobs. And Philip is the boy.",
+     "Philip is married to the Prime Minister. He's a privileged man."
+  ]]
+]],
 ["trump", 0, [
  ["*", [
      "Trump is our special friend. He shows excellent leadership. So does Saudi Arabia.",
