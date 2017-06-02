@@ -132,6 +132,17 @@ var elizaKeywords = [
      "The Conservative manifesto explains our policy on covfefe very well, thank you."
   ]]
 ]],
+["vote", 0, [
+ ["*", [
+     "Britain needs a strong government. Your vote is important. Vote me. ",
+     "Every vote for me is a vote for me. And I don't do U-turns. This lady is not for...",
+     "Every vote for me strangthen the strong and stable negotiations.",
+     "If you don't vote for me in this election, you risk sleepwalking into Jeremy Corbyn.",
+     "If you don't vote for me, you risk walking into a real danger. Corbyn.",
+     "Did you say covfefe?",
+     "A vote for me, is a vote ... covfefe."
+  ]]
+]],
 ["NHS", 0, [
  ["*", [
      "Only the Conservatives can save the NHS. Don't ignore it. We can fix it. ",
@@ -171,7 +182,8 @@ var elizaKeywords = [
 ["Brexit", 0, [
  ["*", [
      "Brexit means Brexit. That's an important signal.",
-     "This is not a tautology: Brexit means Brexit",
+     "This is not a tautology: Brexit means Brexit.",
+     "Paxman is a nasty man. He doesn't seem to like Brexit.",
      "We looked at the issues. There are lots of issues regarding Brexit. Under my leadership they will be dealt with.",
      "People voted for change. I am change. I don't change. Brexit means Brexit. I'm strong and stable.",
      "I need the mandate to be able to take these touch decisions. Brexit is tough.",
@@ -260,11 +272,14 @@ var elizaKeywords = [
 ["Corbyn", 0, [
  ["*", [
      "Corbyn is not strong and stable. He is just trying to play politics. I will fix it.",
-     "Corbyn cannot provide a stronger Britain for the future",
+     "Corbyn cannot provide a stronger Britain for the future.",
+     "Corbyn will always be alone and naked (he he) in the negotiating chamber in Europe. I'm sure the Germans like the thought of that! I'm not a robot, ha ha!",
      "Who will do Brexit negotiations, me or Corbyn? Only I am strong and stable",
      "This country is facing a crucial choice: Corbyn or me - but only I am strong and stable",
      "As I say, it's only a choice between me and me (not Corbyn) - strong and stable",
-     "Corbyn is trying to sneek into Number 10",
+     "Corbyn is trying to sneek into Number 10.",
+     "Actually, this is very serious. I'm not a robot. ha ha!",
+     "Corbyn naked in Europe. I've had dreams. Don't tell Philip.",
      "Corbyn is just trying to play politics with this.",
      "This country needs strong and stable leadership. Corbyn is not me",
      "What do you want? Chaos with Corbyn or strong and stable leadership with me?"
