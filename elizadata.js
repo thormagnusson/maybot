@@ -159,6 +159,7 @@ var elizaKeywords = [
  ["*", [
      "Only the Conservatives can save the NHS. Don't ignore it. We can fix it. ",
      "Brexit will save the NHS. We cannot put the head in the sand.",
+     "Such a nasty man, Paxman. Sorry, where were we? Did you say the NHS?",
      "This is a big issue. We need a strong and stable NHS. We will fix it.",
      "I will not bury my head in the sand (which is what Jeremy Corbyn does). I will fix the NHS.",
      "What we have done is to lay out strong and stable policies that will save the NHS.",
@@ -169,12 +170,14 @@ var elizaKeywords = [
 ["election", 0, [
  ["*", [
      "Only the Conservatives should win this election. ",
+     "I said that there wouldn't be an election. Then I didn't change my mind. And now we have an election. ",
      "In this election the Conservatives are the party of hard working families up and down the country. ",
      "Without the Conservatives winning this election, Britain will suffer (Corbyn).",
      "Of course we will win this election. We have run a strong and stable election campaign.",
      "I need to get a clear mandate from you. So elect me. Elect stability.",
      "There is no question we will win this election. Don't be stupid.",
      "This election is about strength and stability versus chaos (Corbyn)",
+     "I never said that there would not be no election. I did not change my mind.",
      "My leadership will be suffer if this election is not successful.",
      "I have said it many times before, but Britain needs us to win this election."
   ]]
@@ -323,6 +326,15 @@ var elizaKeywords = [
      "I've told you that apologies are not required. Corbyn supporter!",
      "Between you and me: Jeremy Paxman is a nasty man, isn't he?",
      "It did not bother me. That’s why you need strong and stable leadership in order to conduct those negotiations and get the best deal for Britain"
+  ]]
+]],
+["british", 0, [
+ ["*", [
+     "The British people are very British. Up and down the country.",
+     "The British people are hard working. Families. Under my leadership.",
+     "The British people voted out of EU and we will Brexit. Strongly and stably.",
+     "Brexit means Brexit for the British people. Except perhaps Jeremy Corbyn.",
+     "The British people need a strong and stable leadership in order to conduct negotiations and get the best deal for Britain."
   ]]
 ]],
 ["fuck", 0, [
