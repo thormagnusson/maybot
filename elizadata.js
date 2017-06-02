@@ -168,6 +168,16 @@ var elizaKeywords = [
      "A vote for me, is a vote ... covfefe."
   ]]
 ]],
+["job", 0, [
+ ["*", [
+     "There is unemployment. We can fix it. Under my leadership. ",
+     "Brexit negotiations are a difficult job. Under my leadership.",
+     "I think we have a great job to do. Brexit means Brexit. Simple.",
+     "Do you need a job? Come and make Brexit a success. Vote for me.",
+     "My job is to take Britain out of Europe. That's what the British want.",
+     "The British are hard working. They want to leave Europe. Under my leadership."
+  ]]
+]],
 ["NHS", 0, [
  ["*", [
      "Only the Conservatives can save the NHS. Don't ignore it. We can fix it. ",
@@ -829,6 +839,11 @@ var elizaKeywords = [
 ["nobody", 2, [
  ["*", [
      "goto everyone"
+  ]]
+]],
+["jobs", 2, [
+ ["*", [
+     "goto job"
   ]]
 ]],
 ["shit", 2, [
