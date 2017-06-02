@@ -286,7 +286,7 @@ var elizaKeywords = [
      "We will close the borders - And shut the light behind us."
   ]]
 ]],
-["Conservatives", 0, [
+["conservatives", 0, [
  ["*", [
      "Only I can lead the Conservatives. We are providing a system that provides stability",
      "We have a job to do: get people to vote for us. And believe in our leadership.",
@@ -844,6 +844,11 @@ var elizaKeywords = [
 ["America", 2, [
  ["*", [
      "goto trump"
+  ]]
+]],
+["conservative", 2, [
+ ["*", [
+     "goto conservatives"
   ]]
 ]],
 ["noone", 2, [
