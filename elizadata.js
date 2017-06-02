@@ -111,10 +111,22 @@ var elizaKeywords = [
      "The manifesto says that nobody needs to worry under my strong and stable leadership."
   ]]
 ]],
+["climate", 0, [
+ ["*", [
+     "Well, Trump is our special friend. We have a very special relationship.",
+     "Under my leadership climate change will be strong and stable.",
+     "Hard working families up and down the country are not concerned with climate change.",
+     "Give me a break! Climate change is leftie politics.",
+     "What we have done is to set out policies to change climate change. I never change.",
+     "I am honest in my manifesto about the big challenge we face regarding climate change.",
+     "The manifesto says that nobody needs to worry under my strong and stable leadership."
+  ]]
+]],
 ["trump", 0, [
  ["*", [
      "Trump is our special friend. He shows excellent leadership. So does Saudi Arabia.",
      "America will become our main business partner. If Trump wants it.",
+     "Well, Trump is our special friend. We have a very special relationship.",
      "This is a big issue. In my manifesto we will engage with Trump. We have a special relationship.",
      "By the way, I didn't chicken out of the Women's Hour programme.",
      "I will not bury my head in the sand (which is what Jeremy Corbyn does). I will build houses",
@@ -179,7 +191,7 @@ var elizaKeywords = [
      "Jobs? I once had a job."
   ]]
 ]],
-["Brexit", 0, [
+["brexit", 0, [
  ["*", [
      "Brexit means Brexit. That's an important signal.",
      "This is not a tautology: Brexit means Brexit.",
@@ -210,7 +222,7 @@ var elizaKeywords = [
      "Nothing has changed in our manifesto. UKIP are not good at U-Turns."
   ]]
 ]],
-["Europe", 0, [
+["europe", 0, [
  ["*", [
      "Brexit means Brexit. Europe is not strong. ",
      "Under my leadership Europe will exit the UK.",
@@ -228,6 +240,7 @@ var elizaKeywords = [
  ["*", [
      "Nothing has changed since we published our manifesto",
      "The Conservatives have a strong and stable manifesto. It won't change.",
+     "There will be no cap on social care. There will be cap on social care. Leadership!",
      "What we set out in our manifesto was a series of principles. Leadership and me doing that",
      "What I've said to day is that I never take U-turns - nothing has changed",
      "I have never changed my mind - except on Brexit, but not really",
@@ -308,6 +321,7 @@ var elizaKeywords = [
      "I am not in a different galaxy. I am not a robot. I am strong and stable",
      "Apologies are not necessary. I am very clear that at the end of the negotiations we need to be strong and stable",
      "I've told you that apologies are not required. Corbyn supporter!",
+     "Between you and me: Jeremy Paxman is a nasty man, isn't he?",
      "It did not bother me. That’s why you need strong and stable leadership in order to conduct those negotiations and get the best deal for Britain"
   ]]
 ]],
@@ -320,6 +334,7 @@ var elizaKeywords = [
      "Brexit is a once-in-a-lifetime opportunity. Don't use this language!",
      "Beware, I am strong and stable. I do not approve of this language.",
      "You are Corbyn, aren't you? Trying to steal my election.",
+     "That's rude, but between you and me: Jeremy Paxman is a nasty man, isn't he?",
      "I beg you a pardon? Is it you Farage?"
   ]]
 ]],
@@ -694,6 +709,7 @@ var elizaKeywords = [
      "I am very clear that I have a proud record of connection with the armed forces",
      "I think there is a better future ahead for the whole of the UK - with me as the PM",
      "Who else would be as strong and stable?",
+     "Between you and me: Jeremy Paxman is a nasty man, isn't he?",
      "I take the view that I've been out there and I have never changed my mind.",
      "What? I have never changed my mind on anything. No U-Turns.",
      "I am very clear that connectivity is hugely important for the UK - but not with foreigners",
@@ -713,6 +729,11 @@ var elizaKeywords = [
 ["bot", 0, [
  ["*", [
      "goto robot"
+  ]]
+]],
+["brussels", 0, [
+ ["*", [
+     "goto brexit"
   ]]
 ]],
 ["where", 0, [
@@ -773,6 +794,11 @@ var elizaKeywords = [
 ["nobody", 2, [
  ["*", [
      "goto everyone"
+  ]]
+]],
+["shit", 2, [
+ ["*", [
+     "goto fuck"
   ]]
 ]],
 ["EU", 2, [
