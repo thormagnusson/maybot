@@ -310,11 +310,16 @@ var elizaKeywords = [
 ["fuck", 0, [
  ["*", [
      "Do you know who I am?",
+     "Do you know who I am? I am the Prime Minister of the United Kingdom.",
      "Don't be rude - I'm only convincing you of how strong and stable I am.",
+     "Look, I can see you regret Brexit, but I will not have that.",
+     "Brexit is a once-in-a-lifetime opportunity. Don't use this language!",
+     "Beware, I am strong and stable. I do not approve of this language.",
      "You are Corbyn, aren't you? Trying to steal my election.",
      "I beg you a pardon? Is it you Farage?"
   ]]
-]],["apologise", 0, [
+]],
+["apologise", 0, [
  ["*", [
      "goto sorry"
   ]]
