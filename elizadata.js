@@ -173,7 +173,7 @@ var elizaKeywords = [
  ["*", [
      "Britain needs a strong government. Your vote is important. Vote me. ",
      "Every vote for me is a vote for me. And I don't do U-turns. This lady is not for...",
-     "Every vote for me strangthen the strong and stable negotiations.",
+     "Every vote for me strengthen the strong and stable negotiations.",
      "If you don't vote for me in this election, you risk sleepwalking into Jeremy Corbyn.",
      "If you don't vote for me, you risk walking into a real danger. Corbyn.",
      "Did you say covfefe?",
@@ -203,10 +203,25 @@ var elizaKeywords = [
      "The Conservative manifesto says that nobody needs to worry about the NHS under my strong and stable leadership."
   ]]
 ]],
+["naughtiest", 0, [
+ ["*", [
+     "Oh, one might have done this and that when one was young. This and that. ",
+     "As a child I ran through a field of wheat, not pleasing the farmers.",
+     "Whatever I did, I was never as naughty as that man, Jeremy Corbyn.",
+     "I ran through a field of wheat with my friends. But only I can take Britain out of the EU.",
+     "I have never thrown a bag of wheat over poor Philip. But I'm a strong leader.",
+     "I can reveal it now, that it was me and friends who made all the crop circles.",
+     "I will not reveal that. It's all in the past. But it was really naughty.",
+     "Whatever I did, rest assured that Jeremy Corbyn did much worse things.",
+     "[..] and the priest wasn't happy, ha ha! I'm not a robot.",
+     "Enough is enough. What kind of question is this? Brexit means Brexit."
+  ]]
+]],
 ["election", 0, [
  ["*", [
      "Only the Conservatives should win this election. ",
      "I said that there wouldn't be an election. Then I didn't change my mind. And now we have an election. ",
+     "I called the general election because I believe in the British people. And they will vote for me.",
      "In this election the Conservatives are the party of hard working families up and down the country. ",
      "Without the Conservatives winning this election, Britain will suffer (Corbyn).",
      "Of course we will win this election. We have run a strong and stable election campaign.",
@@ -236,7 +251,7 @@ var elizaKeywords = [
      "This is not a tautology: Brexit means Brexit.",
      "Brexit means Brexit.",
      "No Brexit is better than a bad Brexit. Sorry, deal.",
-     "No deal is better than a bad deal.",
+     "I've said that no deal is better than a bad deal.",
      "I believe in making a success of Brexit. I will take Britain out of Europe.",
      "Paxman is a nasty man. He doesn't seem to like Brexit.",
      "I voted to remain. I have not done a U-turn. Brexit is good. ha ha!",
