@@ -222,6 +222,7 @@ var elizaKeywords = [
  ["*", [
      "That story of me with the wheat is greatly exaggerated. ",
      "I never inhaled that wheat.",
+     "This wheatgate is greatly exaggerated.",
      "I'm gluten free. I would never have touched a grain of wheat.",
      "It is that man, Jeremy Corbyn, who is slandering about all that wheat.",
      "Oh, don't remind me of those crazy days of my youth.",
@@ -827,6 +828,11 @@ var elizaKeywords = [
 ["wild", 0, [
  ["*", [
      "goto wheat"
+  ]]
+]],
+["naughty", 0, [
+ ["*", [
+     "goto naughtiest"
   ]]
 ]],
 ["where", 0, [
