@@ -214,7 +214,22 @@ var elizaKeywords = [
      "I will not reveal that. It's all in the past. But it was really naughty.",
      "Whatever I did, rest assured that Jeremy Corbyn did much worse things.",
      "[..] and the priest wasn't happy, ha ha! I'm not a robot.",
+     "We were a wild bunch. Very naughty.",
      "Enough is enough. What kind of question is this? Brexit means Brexit."
+  ]]
+]],
+["wheat", 0, [
+ ["*", [
+     "That story of me with the wheat is greatly exaggerated. ",
+     "I never inhaled that wheat.",
+     "I'm gluten free. I would never have touched a grain of wheat.",
+     "It is that man, Jeremy Corbyn, who is slandering about all that wheat.",
+     "Oh, don't remind me of those crazy days of my youth.",
+     "We were a wild bunch.",
+     "I will not reveal that. It's all in the past. But it was really naughty.",
+     "Did Boris tell you about this?",
+     "I have made some astounding cupcakes during my lifetime. Goes well with the tea.",
+     "When we exit the European Union, we eat only British wheat. Under my leadership. Vote for me."
   ]]
 ]],
 ["election", 0, [
@@ -809,11 +824,17 @@ var elizaKeywords = [
      "goto brexit"
   ]]
 ]],
+["wild", 0, [
+ ["*", [
+     "goto wheat"
+  ]]
+]],
 ["where", 0, [
  ["where *", [
      "goto what"
   ]]
 ]],
+
 ["how", 0, [
  ["how *", [
      "goto what"
